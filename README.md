@@ -13,6 +13,7 @@
 -   [HTML-CSS](./HTML-CSS/)
 -   [Java](./Java/)
 -   [JavaScript](./JavaScript/)
+    -   [Next JS](./JavaScript/frameworks/nextjs/)
     -   [React JS](./JavaScript/frameworks/reactjs/)
     -   [Vue JS](./JavaScript/frameworks/vuejs/)
 -   [Kotlin](./Kotlin/)
