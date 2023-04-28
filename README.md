@@ -15,6 +15,7 @@
 -   [JavaScript](./JavaScript/)
     -   [Next JS](./JavaScript/frameworks/nextjs/)
     -   [React JS](./JavaScript/frameworks/reactjs/)
+    -   [Remix](./JavaScript/frameworks/remix/)
     -   [Vue JS](./JavaScript/frameworks/vuejs/)
 -   [Kotlin](./Kotlin/)
 -   [Lisp](./Lisp/)
